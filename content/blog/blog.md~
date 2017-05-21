@@ -7,3 +7,5 @@ title = "blog"
 
 Kanjikata.testing lounch!
 
+Cool das wir langsam.
+
