@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 {{ partial "header.html" . }}
 
- <h2>Kanjikata.de!</h2>
+ <h1>Meine Blogs</h1>
  {{- range first 10 .Data.Pages }}
  <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
  {{- end }}

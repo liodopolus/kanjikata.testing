@@ -8,5 +8,7 @@ Willkommen auf meinem privaten Blog Kanjikata!
 
 Hier poste ich alles was mir interessant erscheint.
 
-Gruﬂ Jeffrey
+Viel Spaﬂ
+
+Jeffrey
 
