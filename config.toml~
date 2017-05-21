@@ -1,5 +1,39 @@
 baseURL = "http://kanjikata.testing/"
 languageCode = "de-de"
 title = "kanjikata.testing"
-theme = "kanjikata.testing"
+theme = "kanjikata"
+
+DefaultContentLanguage = "de"
+copyright = "Jeffrey Scherling"
+
+
+[params]
+  description = "Mein privater Blog Kanjikata!"
+  author = "Jeffrey Scherling"
+
+[params.navigation]
+help  = "Help"
+
+
+#[Taxonomies]
+#tag = "tags"
+
+#[blackfriday]
+#angledQuotes = true
+#hrefTargetBlank = true
+
+
+#defaultContentLanguageInSubdir = true
+
+#[Languages]
+
+#[Languages.de]
+#title = "German"
+#weight = 1
+
+#[Languages.en]
+#title = "English"
+#weight = 1
+#[Languages.en.blackfriday]
+#angledQuotes = false
 
