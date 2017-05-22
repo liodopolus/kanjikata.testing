@@ -1,16 +1,19 @@
+a {
+  color: #67D044; }
+
 body {
-  background: white; }
+  background: #696762; }
 
 p {
-  color: black; }
+  color: #FFB40D; }
 
 h1 {
-  color: red; }
+  color: #FFB40D; }
 
 h6 {
-  color: black; }
+  color: #67D044; }
 
 .content {
-  background-color: lightgrey; }
+  color: #FFB40D; }
 
 /*# sourceMappingURL=kanjikata.css.map */

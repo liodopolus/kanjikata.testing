@@ -1,28 +1,35 @@
 
-// $primaryColor: #000000;
-   $primaryColor: black;
+// kanjikate.scss
 
+// main colors
+// #696762; // grey bright
+// #FFB40D; // orange bright
+// #67D044; // green
+
+
+// variables
+$primaryColor: #696762; // grey bright
+
+a {
+	color: #67D044; // green
+  }
 
 body {
-	$primaryColor: white;
 	background: $primaryColor;
-}
+     }
 
-
-// When compiled, our paragraph selector's color is #eeccff
 p {
-	  color: $primaryColor;
+	color: #FFB40D; // orange bright
   }
 
 h1 {
-	  color: red;
+	color: #FFB40D; // orange bright
    }
 
 h6 {
-	  color: $primaryColor;
+	color: #67D044; // green
    }
 
 .content {
-	background-color: lightgrey;
-   }
-
+	color: #FFB40D; // orange bright
+         }

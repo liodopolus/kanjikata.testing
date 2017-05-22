@@ -2,14 +2,10 @@
 {{ partial "header.html" . }}
 
  <h1>{{ .Title }}</h1>
- <h6>{{ .Date.Format "Mon, Jan 2, 2006" }}</h6>
- <h6>Lesezeit: {{ .ReadingTime }}s </h6>
- <h6>Beschreibung: {{ .Description }}</h6> 
- <h6>Zusammenfassung: {{ .Summary }}</h6>
+ {{ .Date.Format "2. Jan 2006" }}
  
+ <div class=content>
  {{ .Content }}
-
- <h6>Sektion: {{ .Section }}</h6>
- <h6>RSS: <a href="{{ .RSSLink }}">{{ .Title }}</a></h6>
+ </div>
 
 {{ partial "footer.html" . }}

@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
- <title>{{ .Title }}</title>
- {{ .Hugo.Generator }}
- <meta charset="utf-8">
- <link rel="stylesheet" href="{{ .Site.BaseURL }}css/kanjikata.css">
-</head>
-<body>

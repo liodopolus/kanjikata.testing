@@ -5,5 +5,11 @@
  {{ .Hugo.Generator }}
  <meta charset="utf-8">
  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/kanjikata.css">
+
+ <base href="{{ .Site.BaseURL }}">
+ <title>{{ .Site.Title }}</title>
+ <link rel="canonical" href="{{ .Permalink }}">
+ <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+
 </head>
 <body>
