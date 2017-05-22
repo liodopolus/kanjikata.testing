@@ -1,8 +1,6 @@
-{{ partial "header.html" . }}
 
  <h1>Archiv</h1>
  {{- range first 10 .Data.Pages }}
  <p>{{ .Date.Format "2. Jan 2006" }} <a href="{{ .Permalink }}">{{ .Title }}</a></p>
  {{- end }}
 
-{{ partial "footer.html" . }}

@@ -2,8 +2,11 @@
 {{ partial "header.html" . }}
 
  <h1>Kanjikata.de!</h1>
- {{- range first 10 .Data.Pages }}
+
+ {{- range first 3 .Data.Pages }}
  <h4><a  href="{{ .Permalink }}" >{{ .Title }}</a></h4>
  {{- end }}
+
+ {{ partial "archiv.html" . }}
      
 {{ partial "footer-startseite.html" . }}
