@@ -1,12 +1,13 @@
-<!DOCTYPE html>
 {{ partial "header.html" . }}
 
  <h1>{{ .Title }}</h1>
  <h6>Lesezeit: {{ .ReadingTime }}s </h6>
  <h6>Beschreibung: {{ .Description }}</h6> 
  <h6>Zusammenfassung: {{ .Summary }}</h6>
- 
+
+ <div class="content"> 
  {{ .Content }}
+ </div>
 
  <h6>Sektion: {{ .Section }}</h6>
  <h6>RSS: <a href="{{ .RSSLink }}">{{ .Title }}</a></h6>

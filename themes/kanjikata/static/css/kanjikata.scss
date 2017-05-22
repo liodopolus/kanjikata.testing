@@ -1,0 +1,28 @@
+
+// $primaryColor: #000000;
+   $primaryColor: black;
+
+
+body {
+	$primaryColor: white;
+	background: $primaryColor;
+}
+
+
+// When compiled, our paragraph selector's color is #eeccff
+p {
+	  color: $primaryColor;
+  }
+
+h1 {
+	  color: red;
+   }
+
+h6 {
+	  color: $primaryColor;
+   }
+
+.content {
+	background-color: lightgrey;
+   }
+

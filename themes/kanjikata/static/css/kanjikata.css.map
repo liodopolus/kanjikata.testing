@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,IAAK;EAEJ,UAAU,EADK,KAAK;;AAMrB,CAAE;EACC,KAAK,EAXU,KAAK;;AAcvB,EAAG;EACA,KAAK,EAAE,GAAG;;AAGb,EAAG;EACA,KAAK,EAnBU,KAAK;;AAsBvB,QAAS;EACR,gBAAgB,EAAE,SAAS",
+"sources": ["kanjikata.scss"],
+"names": [],
+"file": "kanjikata.css"
+}
