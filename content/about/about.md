@@ -8,7 +8,7 @@ Willkommen auf meinem privaten Blog Kanjikata!
 
 Hier poste ich alles was mir interessant erscheint.
 
-Viel Spaﬂ!
+Viel Spa√ü!
 
 Jeffrey
 
