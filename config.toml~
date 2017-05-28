@@ -4,11 +4,11 @@ title = "kanjikata.testing"
 theme = "kanjikata"
 
 DefaultContentLanguage = "de"
-copyright = "Jeffrey Scherling"
+copyright = "Copyright (c) 2017, Jeffrey Scherling; all rights reserved."
 
 
 [params]
-  description = "Mein privater Blog Kanjikata!"
+  description = "Kanjikata mein Blog"
   author = "Jeffrey Scherling"
 
 [params.navigation]

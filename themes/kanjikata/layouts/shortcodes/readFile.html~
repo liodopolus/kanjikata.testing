@@ -1,0 +1,2 @@
+<p>{{readFile "./static/robots.txt"}}</p>
+
