@@ -5,3 +5,5 @@ date: 2017-06-06T21:27:02.463Z
 image: /images/uploads/kanjikata-testing.jpg
 ---
 Kanjikata.testing ist jetzt online auf Netlify mit CMS
+
+{{< figure src="images/uploads/kanjikata-testing.jpg" title="Kanjikata online" link="https://kanjikata-testing.netlify.com/blog/2017-06-06-cms-und-https-funktioniert-jetzt/" >}}
