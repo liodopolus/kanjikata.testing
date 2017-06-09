@@ -1,0 +1,6 @@
+# robots.txt zu https://www.kanjikata.de/ 
+
+User-agent: * 
+Disallow: /
+Allow: /index.*
+
