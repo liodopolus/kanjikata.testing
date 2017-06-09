@@ -1,0 +1,39 @@
+baseURL = "https://kanjikata-testing.netlify.com/"
+languageCode = "de-de"
+title = "kanjikata.testing"
+theme = "kanjikata"
+
+DefaultContentLanguage = "de"
+copyright = "Copyright (c) 2017, Jeffrey Scherling; all rights reserved."
+
+
+[params]
+  description = "Kanjikata mein Blog"
+  author = "Jeffrey Scherling"
+
+[params.navigation]
+help  = "Help"
+
+
+#[Taxonomies]
+#tag = "tags"
+
+#[blackfriday]
+#angledQuotes = true
+#hrefTargetBlank = true
+
+
+#defaultContentLanguageInSubdir = true
+
+#[Languages]
+
+#[Languages.de]
+#title = "German"
+#weight = 1
+
+#[Languages.en]
+#title = "English"
+#weight = 1
+#[Languages.en.blackfriday]
+#angledQuotes = false
+
